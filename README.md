@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jimmy Brown</h1>
 <h3 align="center">Full-Skilled Software Developer | Blockchain | Security | AI | Full-Stack | Mobile App</h3>
 
 As a Full-Skilled Software Developer, I have full experiences within from C/C++/Java native programming to BlockChain/Security/AI/Full-Stack/Mobile App Development.
