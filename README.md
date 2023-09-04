@@ -6,7 +6,7 @@ As a Full-Skilled Software Developer, I have full experiences within from C/C++/
 
 - 📫 How to reach me **jbgoldman1104@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zAAPhiyuJpERirWdjTioyA7cnqh8ULUl/view?usp=sharing](https://drive.google.com/file/d/1zAAPhiyuJpERirWdjTioyA7cnqh8ULUl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zAAPhiyuJpERirWdjTioyA7cnqh8ULUl0/view?usp=sharing](https://drive.google.com/file/d/1zAAPhiyuJpERirWdjTioyA7cnqh8ULUl0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
