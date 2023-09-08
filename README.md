@@ -2,7 +2,7 @@
 
 As a Full-Skilled Software Developer, I have full experiences within from C/C++/Java native programming to BlockChain/Security/AI/Full-Stack/Mobile App Development.
 
-- 💬 Ask me about **Blockchain, Network Security, AI, Full-Stack**
+- 💬 Ask me about **Blockchain, Full-Stack, Network Security, AI**
 
 - 📫 How to reach me **jbgoldman1104@gmail.com**
 
